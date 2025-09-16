@@ -1,2 +1,2 @@
 # tutorium-nontri-login-mockup
-The mockup KU Nontri login protocol project, Tutorium.
+The mockup KU Nontri login protocol of our project, Tutorium.
